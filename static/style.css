@@ -1,3 +1,4 @@
+.content { overflow-wrap: break-word; }
 /* Background */ .bg { color:#cdd6f4;background-color:#1e1e2e; }
 /* PreWrapper */ .chroma { color:#cdd6f4;background-color:#1e1e2e; }
 /* Other */ .chroma .x {  }
